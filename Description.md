@@ -6,5 +6,5 @@
 - Voltage across LED ~2 V
 
 ## What I learned
-- Need resistor to prevent LEd from burning out
+- Need resistor to prevent LED from burning out
 - Verified with LTSpice simulation
